@@ -11,6 +11,5 @@ Contents of Ratings.csv
 1.User ID : Unique Identifier for each user
 2.Movie ID
 3.Rating - Rating given by user (0.5 to 5.0 scale)
-4.TimeStamp - Time when the rating was given
 
 This dataset Aims to build a graph based Movie Recommendation system using Pagerank Algorithm
